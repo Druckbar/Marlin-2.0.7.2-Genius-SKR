@@ -1,6 +1,6 @@
 # Marlin 3D Printer Firmware
 
-<img src="https://repository-images.githubusercontent.com/309437674/e1955880-1d37-11eb-8acc-93e3f96a72e6" />
+<img src="https://repository-images.githubusercontent.com/315065164/427fd300-2cdd-11eb-9fd0-cfac6cf64d58" />
 
 ## 2.0.7.2 Modified for Artillery Genius
 
